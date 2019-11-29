@@ -10,8 +10,18 @@
     align-items: center;
 }
 
-#servico .row div {
-    height: 200px;
-    background: green;
-    color: white;
+/* #servico{
+    display: flex;
+    justify-content: space-between;
 }
+#servico .row div {
+    background:white;
+    color:black;
+} */
+
+/*#sobre{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}*/
